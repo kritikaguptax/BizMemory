@@ -1,6 +1,4 @@
 # BizMemory
-A web app that helps businesses store, organize, and quickly retrieve important business knowledge in one place.
-# BizMemory
 
 A shared, searchable "business memory" web app for small and medium-sized businesses.
 
